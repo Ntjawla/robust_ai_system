@@ -24,7 +24,7 @@ It showcases skills in:
 
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/Ntjawla/robust_ai_system
 cd robust_ai_system
 
 
@@ -44,3 +44,4 @@ python scripts\demo.py
 ## View explainability notebook : 
 
 jupyter notebook notebooks/explainability.ipynb
+
